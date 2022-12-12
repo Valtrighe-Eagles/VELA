@@ -1,0 +1,17 @@
+C:\Users\filip\Desktop\GPO\VELA\VELA\bin\Debug\net6.0-windows\VELA.exe
+C:\Users\filip\Desktop\GPO\VELA\VELA\bin\Debug\net6.0-windows\VELA.deps.json
+C:\Users\filip\Desktop\GPO\VELA\VELA\bin\Debug\net6.0-windows\VELA.runtimeconfig.json
+C:\Users\filip\Desktop\GPO\VELA\VELA\bin\Debug\net6.0-windows\VELA.dll
+C:\Users\filip\Desktop\GPO\VELA\VELA\bin\Debug\net6.0-windows\VELA.pdb
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.Form1.resources
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.AssemblyInfo.cs
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.dll
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\refint\VELA.dll
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.pdb
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\VELA.genruntimeconfig.cache
+C:\Users\filip\Desktop\GPO\VELA\VELA\obj\Debug\net6.0-windows\ref\VELA.dll

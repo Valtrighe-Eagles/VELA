@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>sailboat.ico</ApplicationIcon>
+    <Title>VELA</Title>
+    <Description>Valtrighe Eagles Logistic Agency</Description>
+    <PackageIcon>sailboat.png</PackageIcon>
+    <Company>Valtrighe Eagles</Company>
+    <Authors>Filippo Giovanni Graziano</Authors>
+    <Copyright>Filippo Giovanni Graziano</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="sailboat.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\sailboat.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
